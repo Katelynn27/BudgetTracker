@@ -1,4 +1,4 @@
-import JSON
+import json
 file_name = 'ToDo.json'  #loction of to do list tasks
 
 def loadTasks():
